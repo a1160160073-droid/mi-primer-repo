@@ -1,2 +1,1 @@
-Conflicto resuelto correctamente por Vanessa
-Sincronizacion completada
+Linea desde main
