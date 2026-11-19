@@ -1,1 +1,1 @@
-Cambio diferente desde main
+Conflicto resuelto correctamente por Vanessa
